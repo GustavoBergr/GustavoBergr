@@ -1,7 +1,3 @@
-![3D Profile](https://raw.githubusercontent.com/GustavoBergr/GustavoBergr/output/profile-3d-contrib/themes/profile-season-animate.svg)
-
-
-
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
