@@ -13,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </a>
   <br />
+  <br>
 
   </div>
 
@@ -24,7 +25,7 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=GustavoBergr&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
-
+<br>
 <div align="center" > 
   <a href="https://www.instagram.com/gustavo_bergr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavobegr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
